@@ -12,13 +12,14 @@ I am Germán, a software developer located in Argentina, but I like to work with
 
 🌱  What can you expect from me?
   * Respect, tolerance and easy communication both in English and Spanish. I can also speak Italian.
-  * I will answer as soon as I will be available.
-  * I will give and receive as many feedback as possible.
-  * I will deep dive into your details and specifications, to join the dots to understand the business logic.
-  * I will learn new technologies if necessary.
+  * Answer the first contact as soon as *I will be available*.
+  * After the inital contacts, I'll answer the chat (Slack, Telegram, others), mails, call meetings, or email ASAP. 
+  * Give and receive as many feedback as possible.
+  * Deep dive into your details and specifications, to join the dots to understand the business logic.
+  * Learn new technologies as necessary.
   * I will be glad to get an agreement and collaborate with you to get the most out of our relationship.
 
-📫  **How to reach me**: I am not the biggest fan of social networks so the best way is to ping me at [info.gjimenez@gmail.com](info.gjimenez@gmail.com)
+📫  **How to reach me**: I am not the biggest fan of how social networks have evolved, so the best way is to ping me at [info.gjimenez@gmail.com](info.gjimenez@gmail.com)
 
 <div align="center">
 <img src="https://media.giphy.com/media/pRqK2YcBYQp0s/giphy.gif"</img></div>
