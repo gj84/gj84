@@ -17,7 +17,7 @@ I am Germán, a software developer located in Argentina, but I like to work with
   * Learn new technologies as necessary.
   * I will be glad to get an agreement and collaborate with you to get the most out of our relationship.
 
-📫  **How to reach me**: I am not the biggest fan of how social networks have evolved, so the simplest way is to ping me at [info.gjimenez@gmail.com](info.gjimenez@gmail.com) with any idea or project you want to discuss.
+📫  **How to reach me**: I am not the biggest fan of how social networks have evolved, so the simplest way is to ping me at [info.gjimenez@gmail.com](mailto:info.gjimenez@gmail.com) with any idea or project you want to discuss.
 
 <div align="center">
 <img src="https://media.giphy.com/media/pRqK2YcBYQp0s/giphy.gif"</img></div>
