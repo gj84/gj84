@@ -2,12 +2,9 @@
 
 I am Germán, a software developer located in Argentina, but I like to work with people all over the world.
 
-🔭  I’m currently working at [Wiser Solutions](https://www.wiser.com/) developing web crawlers, with regular expresions and Perl mainly.
-
 🐜  I use Python and Javascript (put here lot of libs, frameworks and tools), relational databases and Linux with that powerful tool handled only by text.
  
 💡  I really like working on user automation problems, and I have build things ranging from web crawlers to browser extensions.
-
 
 🌱  What can you expect from me?
   * Respect, tolerance and easy communication both in English and Spanish. I can also speak Italian.
