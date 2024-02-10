@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi!
 
 I am Germán, a software developer located in Argentina, but I like to work with people all over the world.
 
-🐜  I use Python and Javascript (put here lot of libs, frameworks and tools), relational databases and Linux with that powerful tool handled only by text.
+I use Python and Javascript (put here lot of libs, frameworks and tools), relational databases and Linux with that powerful tool handled only by text.
  
-💡  I really like working on user automation problems, and I have build things ranging from web crawlers to browser extensions.
+I really like working on user automation problems, and I have build things ranging from web crawlers to browser extensions.
 
-🌱  What can you expect from me?
+What can you expect from me?
   * Respect, tolerance and easy communication both in English and Spanish. I can also speak Italian.
   * After the inital contacts, I'll answer the messages ASAP (email, Slack, Telegram, others) and attend the appointments on time. 
   * Give and receive as many feedback as possible.
